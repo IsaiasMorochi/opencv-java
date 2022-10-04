@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e095ac7-862e-42bd-82a9-f55720a8ec35" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/imorochi/signature/AdaptiveThreshold.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/FIRMA11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/imorochi/signature/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/imorochi/signature/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +128,7 @@
       <workItem from="1664281993256" duration="3322000" />
       <workItem from="1664285528776" duration="2738000" />
       <workItem from="1664905405729" duration="2078000" />
-      <workItem from="1664926598173" duration="314000" />
+      <workItem from="1664926598173" duration="768000" />
     </task>
     <servers />
   </component>

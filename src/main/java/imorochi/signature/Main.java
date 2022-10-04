@@ -21,7 +21,7 @@ public class Main {
         System.out.println("OPENCV VERSION: " + Core.VERSION);
 
         ClassLoader loader = Main.class.getClassLoader();
-        File file = new File(loader.getResource("images/pic.jpg").getFile());
+        File file = new File(loader.getResource("img/FIRMA11.jpg").getFile());
         System.out.println(file.getPath());
 
         adaptiveThreshold(Path.of(file.getPath()));

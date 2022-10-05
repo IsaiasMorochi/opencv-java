@@ -1,4 +1,4 @@
-package imorochi.signature;
+package bo.imorochi.signature;
 
 import org.opencv.core.Core;
 
@@ -6,7 +6,7 @@ import java.io.File;
 import java.io.IOException;
 import java.nio.file.Path;
 
-import static imorochi.signature.AdaptiveThreshold.adaptiveThreshold;
+import static bo.imorochi.signature.AdaptiveThreshold.adaptiveThreshold;
 
 public class Main {
 

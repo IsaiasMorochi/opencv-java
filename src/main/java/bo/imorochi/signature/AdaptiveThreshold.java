@@ -1,4 +1,4 @@
-package imorochi.signature;
+package bo.imorochi.signature;
 
 import org.opencv.core.Mat;
 import org.opencv.highgui.HighGui;
